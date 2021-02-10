@@ -1,6 +1,6 @@
 ## WP Elemental Theme
 
-![License: The Unlicense](https://img.shields.io/badge/License-The%20Unlicense-green) ![Current: pr-1](https://img.shields.io/static/v1?label=Release&message=Pre-Release%201&color=red)
+[![License: The Unlicense](https://img.shields.io/badge/License-The%20Unlicense-green)](https://github.com/mmsheeks/wp-elemental/blob/production/LICENSE) ![Current: pr-1](https://img.shields.io/static/v1?label=Release&message=Pre-Release%201&color=red)
 
 **Author** [Martin Sheeks](https://github.com/mmsheeks/) |
 **Requires** Wordpress 5.6+ |
