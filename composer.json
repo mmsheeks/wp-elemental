@@ -1,0 +1,23 @@
+{
+    "name": "mmsheeks/wp-elemental",
+    "description": "A wordpress theme to build beautiful websites on top of",
+    "type": "project",
+    "license": "The Unlicense",
+    "authors": [
+        {
+            "name": "Martin Sheeks",
+            "email": "martin.sheeks@gmail.com"
+        }
+    ],
+    "require": {
+        "tgmpa/tgm-plugin-activation": "^2.6",
+        "htmlburger/carbon-fields": "^3.2",
+        "twig/twig": "^3.2",
+        "league/flysystem": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "WPelm\\": "dist/"
+        }
+    }
+}

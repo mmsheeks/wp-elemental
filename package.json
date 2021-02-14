@@ -1,0 +1,43 @@
+{
+  "name": "wp-elemental",
+  "version": "0.0.1",
+  "description": "A wordpress theme to build beautiful websites on top of.",
+  "dependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/preset-env": "^7.12.16",
+    "@babel/register": "^7.12.13",
+    "autoprefixer": "^10.2.4",
+    "babel-loader": "^8.2.2",
+    "bootstrap": "^5.0.0-beta2",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-if": "^3.0.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-postcss": "^9.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "vinyl-named": "^1.1.0",
+    "webpack-stream": "^6.1.2"
+  },
+  "scripts": {
+    "test": "Hello world!",
+    "start": "gulp",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmsheeks/wp-elemental.git"
+  },
+  "keywords": [
+    "wordpress",
+    "themes",
+    "bootstrap"
+  ],
+  "author": "martin.sheeks@gmail.com",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/mmsheeks/wp-elemental/issues"
+  },
+  "homepage": "https://github.com/mmsheeks/wp-elemental#readme"
+}

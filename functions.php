@@ -10,6 +10,7 @@
 
 // include the composer autoloader
 require_once( __DIR__ . '/vendor/autoload.php');
-require_once( __DIR__ . '/inc/wp-elemental-required.php');
+
+$core = new \WPelm\Core\WPelmCore();
 
 //################### DO NOT EDIT ABOVE THIS LINE ###################//
